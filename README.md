@@ -25,8 +25,5 @@
    <img width="360" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4733kb8gysgin4h331dlkb7js0uktjdchmz39eejql&rid=giphy.gif">
    <br>
    <br>
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enrilos&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
-
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrilos&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
   
