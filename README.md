@@ -19,7 +19,7 @@
    <br>
    <a href="https://www.facebook.com/people/Emre-Ereceb/100065301364757/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
    <a href="https://www.instagram.com/emreereceb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/emre-ereceb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/emreereceb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <br>
    <br>
    <img width="360" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4733kb8gysgin4h331dlkb7js0uktjdchmz39eejql&rid=giphy.gif">
