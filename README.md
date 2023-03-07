@@ -7,4 +7,4 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emrebtekin/)
 
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=enrilos&show_icons=true&theme=radical)](https://github.com/enrilos)
+[![Stats](https://github-readme-stats.vercel.app/api?username=enrilos&theme=radical)](https://github.com/enrilos)
